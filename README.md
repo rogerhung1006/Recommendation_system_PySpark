@@ -1,4 +1,4 @@
-# Recommendation_system_PySpark
+# Movie Recommendation System with PySpark
 
 ## Introduction
 Recommendation engines are one of the best use cases for big data. It’s fairly easy to collect training data about users’ past preferences at scale, and this data can be used in many domains to recommend users with new content such as movie or course recommendations. Spark is an open source tool and one of the most ideal choices for large-scale recommendations. 
