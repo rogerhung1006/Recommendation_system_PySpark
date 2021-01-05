@@ -1,5 +1,5 @@
 # Movie Recommendation System with PySpark
-
+![Cover](/images/cover.png)
 ## Introduction
 Recommendation engines are one of the best use cases for big data. It’s fairly easy to collect training data about users’ past preferences at scale, and this data can be used in many domains to recommend users with new content such as movie or course recommendations. Spark is an open source tool and one of the most ideal choices for large-scale recommendations. 
 In this project, I managed to build a basic recommendation engine using PySpark, as I am more comfortable with Python. I personalized movie recommendations tailored for each user in the dataset using Alternating Least Squares (ALS) algorithm, and worked with 10 million ratings from 72,000 users on 10,000 movies as of 2018, collected by MovieLens.
